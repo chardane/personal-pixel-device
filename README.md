@@ -1,5 +1,7 @@
 # Personal Pixel Device: CircuitPython Code
 
+Got here from my Make: magazine article? You've come to the right place!
+
 See this project in action: [my Instagram post](https://www.instagram.com/p/CxUVY0VrjZ_/?img_index=1)
 
 This repo contains all the files you need to make your own rendition of a Personal Pixel Device up and running. It contains the following software:
