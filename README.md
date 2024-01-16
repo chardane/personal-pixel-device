@@ -1,4 +1,4 @@
-# Personal Pixel Device: CircuitPython Code
+# Personal Pixel Device: CircuitPython Code and Files
 
 Got here from my Make: magazine article? You've come to the right place!
 
