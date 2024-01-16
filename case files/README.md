@@ -11,3 +11,5 @@
 # Grid Frame Model Credits
 
 The file called `grid-v2.3mf` is a slightly modified version of the grid frame found in the Adafruit tutorial [Square NeoPixel Display with Black LED Acrylic](https://learn.adafruit.com/sqaure-neopixel-display-with-black-led-acrylic) by the [Ruiz Brothers](https://learn.adafruit.com/u/pixil3d). Thank you, Noe and Pedro!
+
+The rest of the models are designed by yours truly -- feel free to use and remix as desired!
